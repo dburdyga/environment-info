@@ -1,4 +1,4 @@
-export interface IPost {
+export interface ICard {
   name: string;
   versions: {
     versionStaxd: string;
